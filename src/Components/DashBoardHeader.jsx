@@ -10,14 +10,14 @@ const DashBoardHeader = (props) => {
   };
 
   return (
-    <div className={`flex  justify-between flex-col-reverse md:flex-row lg:flex-row`}>
+    <div className={`flex justify-between flex-col-reverse md:flex-row lg:flex-row`}>
       <div className="flex-1 ">
         <h1 className="text-3xl">
           <span className="font-bold">Hello! </span> M H Asghar &#x1F44B;
         </h1>
       </div>
-      <div className="flex justify-between items-center">
-        <div className='sm:block md:hidden lg:hidden'>
+      <div className="flex mb-4 justify-between items-center">
+        <div className='text-gray-300 sm:block md:hidden lg:hidden'>
           <h1 className="font-bold text-3xl">
             Mo<span className="text-black">nn</span>er
           </h1>
@@ -28,7 +28,7 @@ const DashBoardHeader = (props) => {
               <input
                 type="search"
                 id="default-search"
-                className="z-10 block p-2 mr-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500  "
+                className="absolute top-15 left-0 block p-2 mr-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500  "
                 placeholder="Search ..."
               />
             </div>
