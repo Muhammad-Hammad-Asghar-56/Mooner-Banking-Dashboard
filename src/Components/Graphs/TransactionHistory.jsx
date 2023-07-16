@@ -9,7 +9,7 @@ const TransactionHistory = (props) => {
         <h1 >Cash: {amount}</h1>
         <p className='text-gray-400'><span className={`font-bold ${ status=== "Sent" ? "text-red-600": "text-green-600"} `}>{status}</span>  on {lastDate}</p>
       </div>
-      <a className='text-blue-600 cursor-pointer'>View Details</a>
+      <a href="/" className='text-blue-600 cursor-pointer'>View Details</a>
     </div>
   )
 }

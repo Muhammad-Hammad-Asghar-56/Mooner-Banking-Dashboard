@@ -13,7 +13,7 @@ const Navbar = (props) => {
         <ul class="font-medium flex flex-col p-4 md:p-0 mt-4 rounded-lg md:space-x-8 md:mt-0 md:border-0 ">
           <li className="hidden">
             <a
-              href="#"
+              href="/"
               class="block py-2 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-white md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-white"
             >
               <div className="">Contact</div>
@@ -22,7 +22,7 @@ const Navbar = (props) => {
 
           <li>
             <a
-              href="#"
+ href="/"
               class="block py-2 pl-4  text-gray-900 rounded-l-3xl hover:bg-gray-100 md:hover:bg-white md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-white"
             >
               <div className="flex flex-row py-2 pl-4">
@@ -48,7 +48,7 @@ const Navbar = (props) => {
 
           <li>
             <a
-              href="#"
+ href="/"
               class="block py-2   text-gray-900 rounded-l-3xl  hover:bg-gray-100 md:hover:bg-white md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-white"
             >
               <div className="flex flex-row py-2 pl-4">
@@ -74,7 +74,7 @@ const Navbar = (props) => {
 
           <li>
             <a
-              href="#"
+ href="/"
               class="block py-2 pl-4  text-gray-900 rounded-l-3xl  hover:bg-gray-100 md:hover:bg-white md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-white"
             >
               <div className="flex flex-row py-2 pl-4">
@@ -100,7 +100,7 @@ const Navbar = (props) => {
 
           <li>
             <a
-              href="#"
+ href="/"
               class="block py-2 pl-4  text-gray-900 rounded-l-3xl  hover:bg-gray-100 md:hover:bg-white md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-white"
             >
               <div className="flex flex-row py-2 pl-4">
@@ -126,7 +126,7 @@ const Navbar = (props) => {
 
           <li>
             <a
-              href="#"
+ href="/"
                class="block py-2 text-gray-900 rounded-l-3xl  hover:bg-gray-100 md:hover:bg-white md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-white"
             >
               <div className="flex flex-row py-2 pl-4">
